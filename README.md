@@ -1,4 +1,4 @@
-# AWS
+
 Cloud and DevOps Lab Experiments Report
 1) Launch EC2 Instance, Configure CloudWatch and CloudTrail
 Step 1: Launch EC2 Instance
